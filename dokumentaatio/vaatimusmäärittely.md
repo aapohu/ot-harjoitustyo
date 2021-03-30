@@ -16,5 +16,7 @@ Toimintaympäristö:
 - Käyttäjien huipputulokset ja muut tiedot tallennetaan paikallisesti koneen levylle.
 
 Käyttöliittymä:
+
 Käyttöliittymän tulee mukailla aika loppuun asti hiottua Windowsin sol.exe-ohjelmiston toteutusta. 
+
 ![sol.exe](/dokumentaatio/solitaire-windows.jpeg)
