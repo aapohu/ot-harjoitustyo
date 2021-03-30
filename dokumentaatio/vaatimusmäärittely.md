@@ -17,6 +17,6 @@ Toimintaympäristö:
 
 Käyttöliittymä:
 
-Käyttöliittymän tulee mukailla aika loppuun asti hiottua Windowsin sol.exe-ohjelmiston toteutusta. 
+Käyttöliittymän tulee mukailla Windowsin sol.exe-ohjelmiston toteutusta. 
 
 ![sol.exe](/dokumentaatio/solitaire-windows.jpeg)
